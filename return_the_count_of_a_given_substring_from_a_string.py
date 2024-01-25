@@ -8,3 +8,5 @@ print(given_string)
 count_of_emma = given_string.count("Emma")
 
 # Print the count
+
+print("\nThe number of Emma's:", count_of_emma)
